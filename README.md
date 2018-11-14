@@ -1,1 +1,1 @@
-# dissertation
+All of the files for the dissertation for my PhD at University of Florida, with an anticipated submission in at the end of fall semester 2018 and graduation in spring semester 2019. 
